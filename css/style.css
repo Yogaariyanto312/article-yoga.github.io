@@ -1,11 +1,11 @@
 .jumbotron {
   background-color: #fffbf0;
-  padding-top: 6rem;
+  padding-top: 8rem;
 }
 
 #about {
   background-color: aliceblue;
-  padding-top: 8rem;
+  padding-top: 3rem;
 }
 #materihtml {
   padding-top: 8rem;
@@ -52,7 +52,25 @@
   font-weight: bold;
   font-size: 16px;
 }
-/* code css nya */
+
+#Element-11 {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Comic Nueue';
+}
+
+#warnatext1 {
+  color: #fff;
+  background-color: #2d2d2d;
+}
+#warnatext2 {
+  color: #e2777a;
+}
+
+#classhijau-1 {
+  color: rgb(28, 228, 28);
+}
+/* code css highlight.js nya */
 .trakteer {
   float: right;
   text-align: center;
