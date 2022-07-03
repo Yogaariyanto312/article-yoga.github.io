@@ -76,8 +76,13 @@
 }
 /* code css highlight.js nya */
 .trakteer {
-  float: right;
+  padding-top: 30px;
+  justify-content: center;
+}
+
+.tbl-trakteer {
   text-align: center;
+  padding-top: 6px;
 }
 
 .code-1 {
